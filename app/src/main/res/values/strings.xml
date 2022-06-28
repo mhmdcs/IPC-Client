@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IPCClient</string>
+    <string name="process_id_of_server">Server Process ID</string>
+    <string name="server_connection_count">Server Connection Count</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="say_something_to_server">Say Something to the Server</string>
+    <string name="salute">Salute!</string>
+    <string name="title_aidl">AIDL</string>
+    <string name="title_messenger">Messenger</string>
+    <string name="title_broadcast">Broadcast</string>
+    <string name="connect_via_messenger">Connect via Messenger</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="broadcast_sent">Broadcast Sent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
